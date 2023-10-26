@@ -1,0 +1,357 @@
+body{
+     background-image: url(../img/graffiti-508272_1280.jpg);
+}
+
+header {
+    background-image: url(../img/color-4158152_1280.jpg);
+    height: 240px;
+    margin-top: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+    
+}
+ a{
+    text-decoration: none;
+ }
+h1{
+    color: bisque;
+    font-size: 90px;
+    text-align: center;
+}
+
+ul{
+    display: flex;
+}
+li{
+    margin-top: 60px;
+    margin: 60px;
+}
+a{
+    background-color: white;
+    color: black;
+    font-size: 40px;
+    margin-left: 100px;
+}
+
+
+
+
+article{
+    background-color: aqua;
+    width: 300px;
+    height: 500px;
+    margin: 40px;
+    margin-left: 200px;
+    float: left;
+}
+
+h2{
+    background: linear-gradient(0deg, rgba(195,172,34,1) 25%, rgba(253,45,150,1) 76%);
+    font-size: 40px;
+    text-align: center;
+}
+
+p{
+    font-family: 'Alfa Slab One', serif;
+    margin-top: 20px;
+    font-size: 20px;
+    margin-left: 20px;
+   
+
+}
+#contenedoru{
+    background-color: rgb(211, 43, 52);
+    width: 700px;
+    height: 300px;
+    display: flex;
+    float: left;
+    flex-direction: column;
+    margin-left: 1100px;
+    margin-top: 300px;
+}
+
+h4{
+    color: rgb(228, 133, 10);
+    font-family: fantasy;
+    font-size: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+   
+
+}
+
+h5{
+    color: rgb(10, 15, 10);
+    font-family: fantasy;
+    font-size: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+
+@media screen and (min-width: 280px) and (max-width: 490px) {
+    body{
+        background-image: url(../img/graffiti-508272_1280.jpg);
+   }
+   header {
+       background-image: url(../img/color-4158152_1280.jpg);
+       height: 240px;
+       margin-top: 100px;
+       background-repeat: no-repeat;
+       background-size: cover;
+       opacity: 0.8;
+       
+   }
+    a{
+       text-decoration: none;
+    }
+   h1{
+       color: bisque;
+       font-size: 90px;
+       text-align: center;
+   }
+   
+   ul{
+       display: flex;
+   }
+   li{
+       margin-top: 60px;
+       margin: 60px;
+   }
+   a{
+       background-color: white;
+       color: black;
+       font-size: 40px;
+       margin-left: 100px;
+   }
+   
+   article{
+       background-color: aqua;
+       height: 300px;
+       height: 400px;
+       margin: 40px;
+       margin-left: auto;
+       margin-right: auto;
+       float: left;
+       margin-right: 700px;
+   }
+   
+   h2{
+       background: linear-gradient(0deg, rgba(195,172,34,1) 25%, rgba(253,45,150,1) 76%);
+       font-size: 40px;
+   }
+   
+   p{
+       font-family: 'Alfa Slab One', serif;
+       margin-top: 20px;
+       font-size: 15px;
+       margin-left: auto;
+       margin-right: auto;
+   }
+   #contenedoru{
+       background-color: rgb(211, 43, 52);
+       width: 300px;
+       height: 300px;
+       display: flex;
+       float: left;
+       flex-direction: column;
+       margin-left: 10px;
+       margin-top: 300px;
+   }
+   
+   h4{
+       color: rgb(228, 133, 10);
+       font-family: fantasy;
+       font-size: 15px;
+       margin-left: 30px;
+      
+   
+   }
+   
+   h5{
+       color: rgb(10, 15, 10);
+       font-family: fantasy;
+       font-size: 12px;
+       margin-left: 30px;
+
+   
+   }
+}
+
+
+@media screen and (min-width: 491px) and (max-width: 570px) {
+    body{
+        background-image: url(../img/graffiti-508272_1280.jpg);
+   }
+   
+   header {
+       background-image: url(../img/color-4158152_1280.jpg);
+       height: 240px;
+       margin-top: 100px;
+       background-repeat: no-repeat;
+       background-size: cover;
+       opacity: 0.8;
+       
+   }
+    a{
+       text-decoration: none;
+    }
+   h1{
+       color: bisque;
+       font-size: 90px;
+       text-align: center;
+   }
+   
+   ul{
+       display: flex;
+   }
+   li{
+       margin-top: 60px;
+       margin: 60px;
+   }
+   a{
+       background-color: white;
+       color: black;
+       font-size: 40px;
+       margin-left: 100px;
+   }
+   
+   article{
+       background-color: aqua;
+       height: 420px;
+       margin: 40px;
+       margin-left: 100px;
+       float: left;
+  }
+   
+   h2{
+       background: linear-gradient(0deg, rgba(195,172,34,1) 25%, rgba(253,45,150,1) 76%);
+       font-size: 40px;
+       text-align: center;
+   }
+   
+   p{
+       font-family: 'Alfa Slab One', serif;
+       margin-top: 20px;
+       font-size: 20px;
+       
+   
+   }
+   #contenedoru{
+    background-color: rgb(211, 43, 52);
+    width: 500px;
+    height: 400px;
+    display: flex;
+    float: left;
+    flex-direction: column;
+    margin-left: 10px;
+    margin-top: 300px;
+}
+   
+   h4{
+       color: rgb(228, 133, 10);
+       font-family: fantasy;
+       font-size: 20px;
+       margin-left: 100px;
+       margin-right: 100px;
+      
+   
+   }
+   
+   h5{
+       color: rgb(10, 15, 10);
+       font-family: fantasy;
+       font-size: 20px;
+       margin-left: 100px;
+       margin-right: 100px;
+   
+   }
+}
+@media screen and (min-width: 571px) and (max-width: 890px) {
+    body{
+        background-image: url(../img/graffiti-508272_1280.jpg);
+   }
+   
+   header {
+       background-image: url(../img/color-4158152_1280.jpg);
+       height: 240px;
+       margin-top: 100px;
+       background-repeat: no-repeat;
+       background-size: cover;
+       opacity: 0.8;
+       
+   }
+    a{
+       text-decoration: none;
+    }
+   h1{
+       color: bisque;
+       font-size: 90px;
+       text-align: center;
+   }
+   
+   ul{
+       display: flex;
+   }
+   li{
+       margin-top: 60px;
+       margin: 60px;
+   }
+   a{
+       background-color: white;
+       color: black;
+       font-size: 40px;
+       margin-left: 100px;
+   }
+   
+   article{
+       background-color: aqua;
+       height: 420px;
+       margin: 40px;
+       margin-left: 10px;
+       float: left;
+       margin-right: 700px;
+   }
+   
+   h2{
+       background: linear-gradient(0deg, rgba(195,172,34,1) 25%, rgba(253,45,150,1) 76%);
+       font-size: 40px;
+       text-align: center;
+   }
+   
+   p{
+       font-family: 'Alfa Slab One', serif;
+       margin-top: 20px;
+       font-size: 16px;
+     
+   
+   }
+   #contenedoru{
+    background-color: rgb(211, 43, 52);
+    width: 500px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    margin-top: 300px;
+}
+   
+   h4{
+       color: rgb(228, 133, 10);
+       font-family: fantasy;
+       font-size: 20px;
+
+   
+   
+   }
+   
+   h5{
+       color: rgb(10, 15, 10);
+       font-family: fantasy;
+       font-size: 20px;
+    
+   
+   }
+}
+

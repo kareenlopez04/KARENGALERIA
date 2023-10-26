@@ -1,0 +1,303 @@
+
+header {
+    background-image: url(../img/color-4158152_1280.jpg);
+    height: 240px;
+    margin-top: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+    
+}
+ a{
+    text-decoration: none;
+ }
+#cuadrosss{
+    color: bisque;
+    font-size: 90px;
+    text-align: center;
+}
+
+ul{
+    display: flex;
+}
+li{
+    margin-top: 60px;
+    margin: 60px;
+}
+a{
+    background-color: white;
+    color: black;
+    font-size: 40px;
+    margin-left: 100px;
+}
+
+
+#art {
+    width: 100%;
+    height: 200px;
+    background: radial-gradient(circle, rgba(63,209,251,1) 0%, rgba(70,252,91,1) 100%);
+    color: white;
+    font-size: 70px;
+    text-align: center;
+
+}
+h2{
+    color: bisque;
+    font-size: 90px;
+    text-align: center;
+}
+.container {
+    width: 90%;
+    height: 1000px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+#ppintura{
+    width: 70%;
+    height: 300px;
+    margin-left: 40px;
+}
+.pintor {
+    background-color: chartreuse;
+    width: 300px;
+    margin: 10px;
+    margin-top: 60px;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 34px 20px rgba(243, 201, 12, 0.795);
+}
+
+
+.pintor p {
+    font-size: 24px;
+    color: #0e0d0d;
+}
+.iconos {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+.iconos i {
+    font-size: 24px;
+    color: #333;
+    cursor: pointer;
+}
+
+@media screen and (min-width: 280px) and (max-width: 490px) {
+
+    header {
+        background-image: url(../img/color-4158152_1280.jpg);
+        height: 240px;
+        margin-top: 100px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        opacity: 0.8;
+        margin-left: auto;
+        margin-right: auto;
+        
+    }
+     a{
+        text-decoration: none;
+     }
+    #cuadrosss{
+        color: bisque;
+        font-size: 90px;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        display: flex;
+        flex-wrap:wrap;
+    }
+    
+    ul{
+        display: flex;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    li{
+        margin-top: 60px;
+        margin: 60px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    a{
+        background-color: white;
+        color: black;
+        font-size: 40px;
+        margin-left: 100px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    
+    #art {
+        width: 100%;
+        height: 200px;
+        background: radial-gradient(circle, rgba(63,209,251,1) 0%, rgba(70,252,91,1) 100%);
+        color: white;
+        font-size: 70px;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+    
+    }
+    h2{
+        color: bisque;
+        font-size: 30px;
+        text-align: center;
+    }
+    .container {
+        width: 90%;
+        height: 1000px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-left: auto;
+        margin-right: auto;
+        
+    }
+    #ppintura{
+        width: 70%;
+        height: 200px;
+        margin-left: 20px;
+    }
+
+    .pintor {
+        background-color: chartreuse;
+        width: 150px;
+        margin: 10px;
+        margin-top: 60px;
+        padding: 20px;
+        border-radius: 20px;
+        box-shadow: 34px 20px rgba(243, 201, 12, 0.795);
+    }
+    
+    
+    .pintor p {
+        font-size: 14px;
+        color: #0e0d0d;
+       
+        
+    }
+    .iconos {
+        display: flex;
+        justify-content: space-around;
+        margin-top: 10px;
+    }
+    .iconos i {
+        font-size: 24px;
+        color: #333;
+        cursor: pointer;
+    }
+    
+}
+
+@media screen and (min-width: 571px) and (max-width: 890px) {
+    header {
+        background-image: url(../img/color-4158152_1280.jpg);
+        height: 240px;
+        margin-top: 100px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        opacity: 0.8;
+        margin-left: auto;
+        margin-right: auto;
+        
+    }
+     a{
+        text-decoration: none;
+     }
+    #cuadrosss{
+        color: bisque;
+        font-size: 90px;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        display: flex;
+        flex-wrap:wrap;
+    }
+    
+    ul{
+        display: flex;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    li{
+        margin-top: 60px;
+        margin: 60px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    a{
+        background-color: white;
+        color: black;
+        font-size: 40px;
+        margin-left: 100px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    
+    #art {
+        width: 100%;
+        height: 200px;
+        background: radial-gradient(circle, rgba(63,209,251,1) 0%, rgba(70,252,91,1) 100%);
+        color: white;
+        font-size: 70px;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+    
+    }
+    h2{
+        color: bisque;
+        font-size: 30px;
+        text-align: center;
+    }
+    .container {
+        width: 90%;
+        height: 1000px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-left: auto;
+        margin-right: auto;
+        
+    }
+    #ppintura{
+        width: 70%;
+        height: 300px;
+        margin-left: 40px;
+    }
+    .pintor {
+        background-color: chartreuse;
+        width: 200px;
+        margin: 10px;
+        margin-top: 60px;
+        padding: 20px;
+      
+        border-radius: 20px;
+        box-shadow: 34px 20px rgba(243, 201, 12, 0.795);
+    }
+    
+    
+    .pintor p {
+        font-size: 14px;
+        color: #0e0d0d;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .iconos {
+        display: flex;
+        justify-content: space-around;
+        margin-top: 10px;
+    }
+    .iconos i {
+        font-size: 24px;
+        color: #333;
+        cursor: pointer;
+    }
+    
+}

@@ -1,0 +1,380 @@
+
+header {
+    background-image: url(../img/color-4158152_1280.jpg);
+    height: 240px;
+    margin-top: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+    
+}
+ a{
+    text-decoration: none;
+ }
+h2{
+    color: bisque;
+    font-size: 90px;
+    text-align: center;
+}
+
+ul{
+    display: flex;
+}
+li{
+    margin-top: 60px;
+    margin: 60px;
+}
+a{
+    background-color: white;
+    color: black;
+    font-size: 40px;
+    margin-left: 100px;
+}
+h1{
+    background-color: rgba(146, 7, 72, 0.658);
+    color: rgb(252, 248, 241);
+    font-size: 30px;
+    font-family: fantasy;
+
+}
+label {
+    font-weight: bold;
+    
+}
+input[type="date"], input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    margin-top: 20px;
+    border: 3px solid #0f0c0c;
+    border-radius: 4px;
+}
+
+input[type="date"] {
+    width: 100%;
+    padding: 10px;
+
+}
+
+#contenedor{
+    background-image: url(../img/girl-2696947_1280.jpg); 
+    width: 30%;
+    margin-top: 50px;
+    padding:90px;
+    margin-left: 500px;
+}
+
+input[type="submit"]{
+    width: 20%;
+    padding: 20px;
+    color: rgb(248, 244, 239);
+    font-size: 20px;
+    background-color: rgb(100, 100, 187);
+}
+
+label[for="fecha"], label[for="nombre"]{
+    font-family:cursive;
+    margin-top: 30px;
+    background-color: rgba(134, 19, 228, 0.911);
+    color: rgb(17, 19, 17);
+    font-size: 30px;
+
+}
+
+@media screen and (min-width: 280px) and (max-width: 490px) {
+    header {
+        background-image: url(../img/color-4158152_1280.jpg);
+        height: 240px;
+        margin-top: 100px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        opacity: 0.8;
+        margin-left: auto;
+        margin-right: auto;
+        
+    }
+     a{
+        text-decoration: none;
+     }
+    h2{
+        color: bisque;
+        font-size: 90px;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    ul{
+        display: flex;
+    }
+    li{
+        margin-top: 60px;
+        margin: 60px;
+    }
+    a{
+        background-color: white;
+        color: black;
+        font-size: 40px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    h1{
+        background-color: rgba(146, 7, 72, 0.658);
+        width: 150px;
+        color: rgb(252, 248, 241);
+        font-size: 15px;
+        font-family: fantasy;
+        margin-top: 100px;
+    
+    }
+    label {
+        font-weight: bold;
+        
+    }
+    input[type="date"], input[type="text"] {
+        width: 100%;
+        padding: 10px;
+        margin: 8px 0;
+        margin-top: 20px;
+        border: 3px solid #0f0c0c;
+        border-radius: 4px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    input[type="date"] {
+        width: 100%;
+        padding: 10px;
+        margin-left: auto;
+        margin-right: auto;
+    
+    }
+    
+    #contenedor{
+        background-image: url(../img/girl-2696947_1280.jpg); 
+        width: 30%;
+        margin-top: 50px;
+        padding:90px;
+        margin-left: 500px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    input[type="submit"]{
+        width: 100px;
+        padding: 20px;
+        color: rgb(248, 244, 239);
+        font-size: 20px;
+        background-color: rgb(100, 100, 187);
+        
+    }
+    
+    label[for="fecha"], label[for="nombre"]{
+        font-family:cursive;
+        margin-top: 30px;
+        background-color: rgba(134, 19, 228, 0.911);
+        color: rgb(17, 19, 17);
+        font-size: 20px;
+        margin-left: auto;
+        margin-right: auto;
+    
+    }
+}
+
+@media screen and (min-width: 491px) and (max-width: 570px) {
+       header {
+        background-image: url(../img/color-4158152_1280.jpg);
+        height: 240px;
+        margin-top: 100px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        opacity: 0.8;
+        margin-left: auto;
+        margin-right: auto;
+        
+    }
+     a{
+        text-decoration: none;
+     }
+    h2{
+        color: bisque;
+        font-size: 90px;
+        text-align: center;
+    }
+    
+    ul{
+        display: flex;
+    }
+    li{
+        margin-top: 60px;
+        margin: 60px;
+    }
+    a{
+        background-color: white;
+        color: black;
+        font-size: 40px;
+        margin-left: auto;
+        margin-right: auto;
+        }
+    h1{
+        background-color: rgba(146, 7, 72, 0.658);
+        width: 200px;
+        color: rgb(252, 248, 241);
+        font-size: 20px;
+        font-family: fantasy;
+    
+    }
+    label {
+        font-weight: bold;
+        margin-left: auto;
+        margin-right: auto;
+        
+    }
+    input[type="date"], input[type="text"] {
+        width: 100%;
+        padding: 10px;
+        margin: 8px 0;
+        margin-top: 20px;
+        border: 3px solid #0f0c0c;
+        border-radius: 4px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    input[type="date"] {
+        width: 100%;
+        padding: 10px;
+        margin-left: auto;
+        margin-right: auto;
+    
+    }
+    
+    #contenedor{
+        background-image: url(../img/girl-2696947_1280.jpg); 
+        width: 30%;
+        margin-top: 50px;
+        padding:90px;
+        margin-left: auto;
+        margin-right: auto;
+        }
+    
+    input[type="submit"]{
+        width: 100px;
+        padding: 20px;
+        color: rgb(248, 244, 239);
+        font-size: 20px;
+        background-color: rgb(100, 100, 187);
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    label[for="fecha"], label[for="nombre"]{
+        font-family:cursive;
+        margin-top: 30px;
+        background-color: rgba(134, 19, 228, 0.911);
+        color: rgb(17, 19, 17);
+        font-size: 30px;
+        margin-left: auto;
+        margin-right: auto;
+    
+    }
+}
+
+@media screen and (min-width: 571px) and (max-width: 890px) {
+    header {
+        background-image: url(../img/color-4158152_1280.jpg);
+        height: 240px;
+        margin-top: 100px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        opacity: 0.8;
+        margin-left: auto;
+        margin-right: auto;
+        
+    }
+     a{
+        text-decoration: none;
+     }
+    h2{
+        color: bisque;
+        font-size: 90px;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    ul{
+        display: flex;
+    }
+    li{
+        margin-top: 60px;
+        margin: 60px;
+    }
+    a{
+        background-color: white;
+        color: black;
+        font-size: 40px;
+        margin-left: auto;
+        margin-right: auto;
+        }
+    h1{
+        background-color: rgba(146, 7, 72, 0.658);
+        color: rgb(252, 248, 241);
+        width: 200px;
+        font-size: 25px;
+        font-family: fantasy;
+        margin-left: auto;
+        margin-right: auto;
+    
+    }
+    label {
+        font-weight: bold;
+        
+    }
+    input[type="date"], input[type="text"] {
+        width: 100%;
+        padding: 10px;
+        margin: 8px 0;
+        margin-top: 20px;
+        border: 3px solid #0f0c0c;
+        border-radius: 4px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    input[type="date"] {
+        width: 100%;
+        padding: 10px;
+    
+    }
+    
+    #contenedor{
+        background-image: url(../img/girl-2696947_1280.jpg); 
+        width: 30%;
+        margin-top: 50px;
+        padding:90px;
+        margin-left: auto;
+        margin-right: auto;
+        }
+    
+    input[type="submit"]{
+        width: 200px;
+        padding: 20px;
+        color: rgb(248, 244, 239);
+        font-size: 20px;
+        background-color: rgb(100, 100, 187);
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    label[for="fecha"], label[for="nombre"]{
+        font-family:cursive;
+        margin-top: 30px;
+        background-color: rgba(134, 19, 228, 0.911);
+        color: rgb(17, 19, 17);
+        font-size: 30px;
+        margin-left: auto;
+        margin-right: auto;
+    
+    }
+}
